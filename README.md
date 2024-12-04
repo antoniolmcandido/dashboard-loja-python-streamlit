@@ -14,10 +14,10 @@ Dashboard criado com Python e Streamlit para visualização de dados de um datas
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/antoniolmcandido/dashboard-supermarket-python-streamlit.git
+git clone https://github.com/antoniolmcandido/dashboard-loja-python-streamlit.git
 
 # Entrar no diretório
-cd dashboard-supermarket-python-streamlit
+cd dashboard-loja-python-streamlit
 
 # Instalar Streamlit
 pip install streamlit
