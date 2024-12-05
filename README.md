@@ -27,3 +27,48 @@ pip install pandas plotly streamlit
 # Executar o projeto
 streamlit run dashboards.py
 ```
+
+## 👨‍💻 Como criar o seu próprio projeto
+
+```bash
+# Crie sua conta no github.com
+https://github.com
+
+# Crie um repositório para os arquivos do seu projeto
+
+# Instale o git na sua máquina
+https://git-scm.com/downloads
+
+# Execute o git bash na sua máquina (botão direito do mouse)
+
+# Faça o clone do seu repositório para a sua máquina
+git clone https://github.com/seu-perfil/seu-repositorio.git
+
+# Entre no diretório (raiz da pasta)
+cd seu-repositorio
+
+# Instale o Pandas, Plotly e Streamlit (caso não tenha)
+pip install pandas plotly streamlit
+
+# Escreva o seu script python personalizado do streamlit (dashboard.py)
+
+# Escreva o arquivo de dependências do projeto (requirements.txt)
+streamlit
+pandas
+plotly
+
+# Execute o seu projeto
+streamlit run dashboard.py
+
+# Envie os seus arquivos para o github (pode usar o Vs Code)
+git add .
+git commit -m "upload de arquivos"
+git push --all
+
+# Caso queira colocar em produção na web, crie sua conta no site Streamlit.io
+https://streamlit.io
+
+# Após criar sua conta, conecte sua conta github no site Streamlit.io
+
+# Crie um novo app apontando para o seu repositório do github
+```
