@@ -1,5 +1,7 @@
 # 📈 Dashboard com Python, Plotly e Streamlit
 
+Veja aqui: [https://dashboard-loja-python.streamlit.app](https://dashboard-loja-python.streamlit.app)
+
 ## 📋 Sobre:
 
 Dashboard criado com Python, Plotly e Streamlit para visualização de dados de um dataset de vendas de uma empresa fictícia.
